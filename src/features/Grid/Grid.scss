@@ -1,0 +1,10 @@
+.grid {
+  display: grid;
+  gap: 5px; 
+  position: relative; 
+}
+
+.grid-cell {
+  background-color: lightgray; /* Цвет фона для ячеек */
+  border: 1px solid #ccc; /* Граница ячеек */
+}
